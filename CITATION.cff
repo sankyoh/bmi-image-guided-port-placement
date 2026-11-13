@@ -1,0 +1,22 @@
+cff-version: "1.2.0"
+message: "If you use this analysis code, please cite it using the metadata in this file."
+type: software
+title: "Procedural outcomes of image-guided central venous access port placement across the body mass index spectrum: a post hoc analysis of a prospective multicenter registry"
+authors:
+  - family-names: "MITSUHASHI"
+    given-names: "TOSHIHARU"
+    orcid: "https://orcid.org/0000-0001-9940-0570"
+    affiliation: "Center for Innovative Clinical Medicine, Medical Development Field, Okayama University"
+license: "MIT"
+abstract: >-
+  Stata analysis code for a post hoc analysis of a prospective multicenter
+  registry examining the association between BMI and procedural outcomes of
+  image-guided central venous access port placement. The code includes
+  descriptive statistics, modified Poisson regression, linear regression,
+  and restricted cubic spline analyses. Patient-level data are not included.
+keywords:
+  - "Stata"
+  - "body mass index"
+  - "central venous access port"
+  - "image-guided port placement"
+  - "restricted cubic splines"
