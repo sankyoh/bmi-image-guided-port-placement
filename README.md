@@ -89,6 +89,8 @@ Keep input data, intermediate datasets, and execution logs private. Review the c
 
 The public scripts were run in a separate working copy with StataNow 19.5 on Windows. For the 19 September analysis, model sample sizes, point estimates, and 95% confidence intervals matched the BMI four-category results at the precision reported. The predictions and 95% confidence intervals for all three spline plots matched the archived numerical outputs at every BMI grid point. The numerical reference was retained with the 26 September outputs; the accompanying PNGs were pixel-identical to the 19 September figures.
 
+Release: [v1.0.0](https://github.com/sankyoh/bmi-image-guided-port-placement/releases/tag/v1.0.0) (13 November 2026).
+
 If you use this analysis code, please cite it using the information in [CITATION.cff](CITATION.cff).
 
 The code and documentation in this repository are licensed under the [MIT License](LICENSE).
