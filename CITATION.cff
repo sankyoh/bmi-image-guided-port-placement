@@ -10,6 +10,7 @@ authors:
 license: "MIT"
 version: "1.0.0"
 date-released: "2026-11-13"
+doi: "10.5281/zenodo.24198215"
 repository-code: "https://github.com/sankyoh/bmi-image-guided-port-placement"
 abstract: >-
   Stata analysis code for a post hoc analysis of a prospective multicenter
